@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Hallo Sans';
-	src: local('Hallo Sans'), local('HalloSans'), url('https://dl.dropboxusercontent.com/u/66570000/HalloSansNormalWeb.woff2') format('woff2');
+	src: local('Hallo Sans'), local('HalloSans'), url('https://github.com/vnqsh/vnqsh.github.io/raw/master/HalloSansNormalWeb.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
@@ -8,7 +8,7 @@
 
 @font-face {
 	font-family: 'Hallo Sans';
-	src: local('Hallo Sans Light'), local('Hallosans-Light'), url('https://dl.dropboxusercontent.com/u/66570000/HalloSansLightBlack.woff2') format('woff2');
+	src: local('Hallo Sans Light'), local('Hallosans-Light'), url('https://github.com/vnqsh/vnqsh.github.io/raw/master/HalloSansLightWeb.woff2') format('woff2');
 	font-weight: 300;
 	font-style: normal;
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
@@ -16,7 +16,7 @@
 
 @font-face {
 	font-family: 'Hallo Sans';
-	src: local('Hallo Sans Black'), local('Hallosans-Black'), url('https://dl.dropboxusercontent.com/u/66570000/HalloSansBlackWeb.woff2') format('woff2');
+	src: local('Hallo Sans Black'), local('Hallosans-Black'), url('https://github.com/vnqsh/vnqsh.github.io/raw/master/HalloSansBlackWeb.woff2') format('woff2');
 	font-weight: 900;
 	font-style: normal;
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
